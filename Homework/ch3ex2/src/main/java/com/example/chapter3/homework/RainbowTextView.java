@@ -11,7 +11,7 @@ import android.support.v7.widget.AppCompatTextView;
 import android.util.AttributeSet;
 
 /**
- * 如何创建自定义 View：https://developer.android.google.cn/guide/topics/ui/custom-components
+ * 如何创建自定义 View：https://developer.android.com/guide/topics/ui/custom-components
  * Advanced TextView：https://chiuki.github.io/advanced-android-textview
  */
 public class RainbowTextView extends AppCompatTextView {
